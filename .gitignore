@@ -1,0 +1,32 @@
+# Hugo - Generated website (the CI/CD server will build this)
+public/
+
+# Hugo - Cache and build artifacts
+resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# Operating System Files (macOS specific)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+Thumbs.db
+
+# Frontend / Node (if you ever use npm/tailwind)
+node_modules/
+.npm/
+
+# Logs and temporary files
+*.log
+tmp/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables (keep your secrets safe)
+.env
