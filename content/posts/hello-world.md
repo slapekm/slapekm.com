@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-date: 2026-02-20
+date: 2026-02-19
 draft: false
 tags: ["Introduction", "AI", "Life"]
 ---
